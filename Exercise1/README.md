@@ -2,13 +2,10 @@ EXERCISE 1
 
 Introduction
 
-The purpose of this exercise is to practise the very basics of signal processing and analysis with MATLAB. We will use MATLAB functions to visualize, quantify and try to make sense of the EMG signal. If you have never programmed with MATLAB before, you can watch the tutorial lecture uploaded on StudOn. If you don’t have the license yet, click on the link below and take advantage of FAU’s Campus-Wide License to install and use MATLAB on your computer:
-www.mathworks.com/products/matlab/student.html
-Please don’t hesitate to ask questions on the StudOn forum regarding the tasks or activating the Campus-Wide License. We also encourage you to post your plots to the respective thread in the forum. Don’t forget to label your axes and to specify the task number associated with the plot. 
+The purpose of this exercise is to practise the very basics of signal processing and analysis with MATLAB.
 
 Task 1
 
-MAT files are binary MATLAB files that store workspace variables. By loading the saved files to your MATLAB workspace, you get access to manipulate or visualize the variables. The names of the variables from the file that you will use for this exercise are SIG and ref_signal, fsamp corresponding to the EMG channel data and the force signal, respectively.
 1)	Load the EMG file
 2)	Plot each channel
 
